@@ -1,0 +1,62 @@
+-Project Controller
+	-View Project (Anon, Member, Admin)
+	-Create Project (Member, Admin)
+	-Update Project  (Member, Admin)
+	-Delete Project   (Admin)
+	-Index Project	 (Anon,Member, Admin)
+	-Admin Project   (Admin)
+-User Controller
+	-View User       (Member, Admin)
+	-Create User     (Admin)
+	-Update User      (Admin)
+	-Delete User      (Admin)
+	-Index User      (Member, Admin)
+	-Admin User      (Admin)
+-Post Controller
+	-View Post       (Anon, Member, Admin)
+	-newCommment (Not an action)  (Anon, Member, Admin)
+	-Create Post   (Member, Admin)
+	-Update Post    (Member, Admin)
+	-Delete Post    (Member, Admin)
+	-Index Post      (Anon, Member, Admin)
+	-Admin Post     (Member, Admin)
+-Comment Controller
+	-View Comment   (Anon, Member, Admin)
+	-Create Comment  (Anon, Member, Admin)
+	-Update Comment  (Member, Admin)
+	-Delete Comment   (Member, Admin)
+	-Index Comment  (Anon, Member, Admin)
+	-Admin Comment  (Member, Admin)
+	-Approve Comment (Member, Admin)
+-Site Controller
+	-Index
+	-Error
+	-Contact
+	-Login
+	-Logout
+-Member Controller
+	-View Member (Anon, Member, Admin)
+	-Create Member (Member, Admin)
+	-Update Member (Member, Admin)
+	-Index Member  (Anon, Member, Admin)
+	-Delete Member  (Admin)
+	-Admin Member   (Admin)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

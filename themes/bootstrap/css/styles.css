@@ -1,0 +1,12 @@
+body {
+	background: red;
+}
+#page {
+    padding-top: 60px;
+}
+
+.comment {
+	background-color: blue;
+	border: 1px solid black;
+
+}
